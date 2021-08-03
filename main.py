@@ -1,7 +1,7 @@
 from CozyClient import CozyTechClient
 import discord
 
-TOKEN = 'ODcxNzc3MDE4MzEwNzAxMDc2.YQgPnQ.7W7NDzkb5ZiG3Ov3omlfe3cYH0M'
+TOKEN = 'YOUR_BOT_TOKEN'
 
 
 intents = discord.Intents.default()
