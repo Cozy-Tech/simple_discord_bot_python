@@ -3,7 +3,7 @@ import discord
 
 class CozyTechClient(discord.Client):
     async def on_ready(self):
-        print("salam")
+        print("Bot is ready")
 
 
     async def on_message(self,message):
